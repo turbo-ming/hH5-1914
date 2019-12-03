@@ -1,0 +1,8 @@
+@charset "utf-8";
+/*重置样式*/
+*{margin:0;padding: 0}
+ul,ol,li{list-style: none;}
+b,strong{font-weight: normal;}
+i,em{font-style: normal;}
+a,u{text-decoration: none;}
+h1,h2,h3,h4,h6{font-size:16px;font-weight: normal;}

@@ -1,0 +1,28 @@
+#top{width: 1068px;margin: 0 auto;}
+
+/* top */
+#top{height: 78px;}
+#top img{float: left;padding-top: 16px}
+#top .nav{width: 500px;height: 78px;float: left; padding-left: 80px ;}
+#top .nav li{float: left;margin-right:2px;}
+#top .nav .li4{margin: 0;}
+#top .nav li a{display: block;height: 78px;background:url(../images/nav[1].png) no-repeat;text-indent:-9999px;}
+#top .nav .li1 a{width:98px;}
+#top .nav .li2 a{width:122px;background-position:-100px 0;}
+#top .nav .li3 a{width:144px;background-position:-224px 0;}
+#top .nav .li4 a{width:118px;background-position:-370px 0;}
+/* 鼠标滑过 */
+#top .nav .li a:hover{background:url(../images/nav-on[1].png) no-repeat;}
+#top .nav .li1 a:hover{background:url(../images/nav-on[1].png) no-repeat;}
+#top .nav .li2 a:hover{background:url(../images/nav-on[1].png) no-repeat;background-position: -100px 0;}
+#top .nav .li3 a:hover{background:url(../images/nav-on[1].png) no-repeat;background-position: -224px 0;}
+#top .nav .li4 a:hover{background:url(../images/nav-on[1].png) no-repeat;background-position: -370px 0;}
+
+#top  .text{width: 150px;float: right;margin-top: 20px;margin-right: 0}
+#top .text .txt{width: 100px;height: 28px;border: 1px solid #e5e5e5;
+    float: left;border-right: none;background: #f1f1f1;color: #8f8f8f;font-size: 10px;line-height: 28px;
+    padding-left: 14px;}
+#top .text .btn{width: 30px;height: 30px;border: 1px solid #e5e5e5;float: left;border-left: none;background:#f1f1f1 url(../images/sousuo_03.jpg) no-repeat -3px 1px}
+
+/* banner */
+#banner{width: 100%;height: ;}
